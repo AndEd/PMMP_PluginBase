@@ -1,0 +1,12 @@
+main: ruseed\anded\MainClassName
+name: "Plugin Name"
+version: "Plugin Version"
+author: "Proj. Ruseed - AndEd"
+api:
+- 3.0.0
+
+permissions:
+  xx.admin:
+    default: OP
+  xx.user:
+    default: true
